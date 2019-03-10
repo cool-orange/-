@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489800283 source:c:\users\hh\desktop\linklist\link list.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1489814359 source:c:\users\hh\desktop\数据结构\linklist\link list.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

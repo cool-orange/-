@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1490414598 source:c:\users\hh\desktop\数据结构\circularlist\circular list.c
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
+1491616719 source:c:\users\hh\desktop\数据结构\liner_list\circularlist\circular list.c
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1491616719 source:c:\users\hh\desktop\data structure\liner_list\circularlist\circular list.c
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

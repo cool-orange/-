@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490367807 source:c:\users\hh\desktop\twoway list\twoway list.c
+	<stdio.h>
+	<stdlib.h>
+

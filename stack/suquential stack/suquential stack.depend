@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490875659 source:c:\users\hh\desktop\suquential stack\sequential stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1491399007 source:c:\users\hh\desktop\数据结构\stack\suquential stack\sequential stack.c
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdlib.h>
+

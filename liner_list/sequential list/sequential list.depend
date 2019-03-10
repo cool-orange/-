@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1489740456 source:c:\users\hh\desktop\sequential list\sequential list.c
+	<stdio.h>
+	<stdlib.h>
+
+1489739986 source:c:\users\hh\desktop\sequential list\sequentlist2.c
+	<stdio.h>
+	<stdlib.h>
+	"sequential list.h"
+
+1489740468 c:\users\hh\desktop\sequential list\sequential list.h
+	<stdio.h>
+
+1489801198 source:c:\users\hh\desktop\数据结构\sequential list\sequential list.c
+	<stdio.h>
+	<stdlib.h>
+
